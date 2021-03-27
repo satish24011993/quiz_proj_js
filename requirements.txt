@@ -67,7 +67,7 @@ pytz==2020.1
 qrcode==6.1
 raven==6.10.0
 requests==2.25.0
-six==1.14.0
+six
 sorl-thumbnail==12.6.3
 sound==0.1.0
 SoundFile==0.10.3.post1
